@@ -8,9 +8,9 @@ I am a **B.Tech. Computer Science Engineering student at IIIT-Delhi** with stron
 
 ## Highlights
 
-* Software Engineer Intern at **Bank of New York (BNY)**
+* Software Engineer Intern (Summer 2025) at **Bank of New York (BNY)**
 * Undergraduate Researcher in **NLP, ML, and Computational Chemistry**
-* Projects in **LLMs, portfolio optimization, healthcare NLP**
+* Projects in **LLMs, Portfolio optimization, healthcare NLP**
 * National-level hackathon and competition finalist
 * Strong foundation in **DSA, system design, and backend development**
 
