@@ -1,17 +1,14 @@
 # Resume – Vimansh Mahajan
 
-This repository contains my latest **professional resume**, highlighting my academic background, research experience, internships, and technical projects.
+This repository contains my latest professional resume, highlighting my academic background, internships, technical projects, and software engineering experience.
 
 ## About Me
-
-I am a **B.Tech. Computer Science Engineering student at IIIT-Delhi** with strong interests in **software engineering, machine learning, NLP, and quantitative systems**. I enjoy building end-to-end systems that combine solid engineering with data-driven intelligence.
+I recently graduated in B.Tech. Computer Science Engineering from IIIT-Delhi and will be joining Bank of New York (BNY) as a Full-Time Software Engineer. My interests include software engineering, backend systems, machine learning, NLP, and building scalable real-world products.
 
 ## Highlights
-
-* Software Engineer Intern (Summer 2025) at **Bank of New York (BNY)**
-* Undergraduate Researcher in **NLP, ML, and Computational Chemistry**
-* Projects in **LLMs, Portfolio optimization, healthcare NLP**
-* National-level hackathon and competition finalist
-* Strong foundation in **DSA, system design, and backend development**
-
-
+- Incoming Full-Time Software Engineer at Bank of New York (BNY)
+- Former Software Engineer Intern (Summer 2025) at BNY
+- IIIT-Delhi CSE Graduate
+- Projects in AI/LLMs, Quantitative Finance, Healthcare Systems
+- Strong foundation in DSA, system design, and backend development
+- Research experience in NLP and applied machine learning
